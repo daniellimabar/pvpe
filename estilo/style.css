@@ -78,7 +78,7 @@ article div.fonte{
 
 article a {
     color: gray;
-    text-decoration: none;
+    text-decoration: underline;
     text-align: justify;
 }
 
@@ -93,11 +93,12 @@ footer {
     text-align: center;
     padding-top: 3px;
     padding-bottom: 3px;
+    font-size: 0.9em;
 }
 
 footer a {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 footer a:hover {
