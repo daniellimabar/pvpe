@@ -73,6 +73,7 @@ article img {
 article div.fonte{
     color: gray;
     text-align: justify;
+    padding-left: 5px;
 }
 
 article a {
